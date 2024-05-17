@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechFly6er
 - 👀 I’m interested in ...Cyber Security
-- 🌱 I’m currently learning ...Software Developmenr
+- 🌱 I’m currently learning ...Software Development
 - 💞️ I’m looking to collaborate on ...Development of Software for Cyber Analysis
 - 📫 How to reach me ...amandatulley587@gmail.com
 - 😄 Pronouns: ...
